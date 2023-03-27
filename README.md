@@ -6,10 +6,5 @@ Este é o repositório da atividade em Java relacionada à matéria de Estrutura
 
 Para o correto funcionamento deste projeto, é necessário que você instale a seguinte biblioteca externa:
 
-- [lista-lib](https://github.com/anacatarinop/lista-lib)
+- [Atividade]((https://drive.google.com/file/d/1sj5NGKzjDprtrnN_UtKbRWnHHbaj1w31/view?usp=share_link)
 
-Basta seguir as instruções de instalação na página do repositório da biblioteca para que tudo funcione corretamente.
-
-## Instruções de uso
-
-Em breve, serão adicionadas as instruções de uso deste projeto. Fique atento às atualizações deste arquivo README.md.
